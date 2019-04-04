@@ -25,3 +25,6 @@ The objective of this case is to predict the whether the customer will churn or 
 21. CHURN (whether the customer churn or not)
 
 # Programming Language : Python 3 and R Language
+
+## Note:
+Please refer the project report
